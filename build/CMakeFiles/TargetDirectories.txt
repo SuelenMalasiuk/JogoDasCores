@@ -1,0 +1,3 @@
+C:/Users/suele/OneDrive/Documentos/JogoCores/build/CMakeFiles/JogoDasCores.dir
+C:/Users/suele/OneDrive/Documentos/JogoCores/build/CMakeFiles/edit_cache.dir
+C:/Users/suele/OneDrive/Documentos/JogoCores/build/CMakeFiles/rebuild_cache.dir
